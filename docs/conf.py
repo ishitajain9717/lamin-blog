@@ -38,6 +38,7 @@ authors = {
     "felix-fischer": ("Felix Fischer", "https://github.com/felix0097"),
     "keller-mark": ("Mark Keller", "https://github.com/keller-mark"),
     "maciek-wiatrak": ("Maciek Wiatrak", "https://github.com/macwiatrak"),
+    "namsaraeva": ("Altana Namsaraeva", "https://github.com/namsaraeva"),
     "ilan-gold": ("Ilan Gold", "https://github.com/ilan-gold"),
     "fabian-theis": (
         "Fabian Theis",
